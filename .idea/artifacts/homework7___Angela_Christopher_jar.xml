@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="homework7 - Angela_Christopher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/homework7___Angela_Christopher_jar</output-path>
+    <root id="archive" name="homework7 - Angela_Christopher.jar">
+      <element id="module-output" name="homework7 - Angela_Christopher" />
+    </root>
+  </artifact>
+</component>
